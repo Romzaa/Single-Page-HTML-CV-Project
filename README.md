@@ -1,5 +1,5 @@
 # Single-Page-HTML-CV-Project
-Single-Page HTML CV Project is a Demo test for HTML Skills for beginners
+Single-Page HTML CV Project is a Demo test for HTML Skills for beginners <br>
 Here We Used HTML and some basics from CSS
 Beginning with right structure for the HTML file 
 To prevent bugs make sure to return to HTML validator to check your work
