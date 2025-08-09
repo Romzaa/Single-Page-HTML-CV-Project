@@ -2,6 +2,7 @@
 Check The Demo HERE : <br>
 https://roadmap.sh/projects/single-page-cv <br>
 https://github.com/Romzaa/Single-Page-HTML-CV-Project/blob/main/CV.html <br>
+https://roadmap.sh/projects/single-page-cv/solutions?u=68768e5c7bd19b70d0bf5c67 <br>
 Single-Page HTML CV Project is a Demo test for HTML Skills for beginners <br>
 Here We Used HTML and some basics from CSS<br>
 Beginning with right structure for the HTML file <br>
