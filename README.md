@@ -1,5 +1,6 @@
 # Single-Page-HTML-CV-Project
-Check The Demo HERE : https://github.com/Romzaa/Single-Page-HTML-CV-Project/blob/main/CV.html <br>
+Check The Demo HERE : <br>
+https://github.com/Romzaa/Single-Page-HTML-CV-Project/blob/main/CV.html <br>
 Single-Page HTML CV Project is a Demo test for HTML Skills for beginners <br>
 Here We Used HTML and some basics from CSS<br>
 Beginning with right structure for the HTML file <br>
